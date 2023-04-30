@@ -1,7 +1,4 @@
 my 1st file to check
-yagiyig
-
-
 
 
 
@@ -12,7 +9,7 @@ four
 five
 six
 seven
-eight
+Eight
 nine
-ten
+Ten
 
